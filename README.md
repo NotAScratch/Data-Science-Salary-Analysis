@@ -16,7 +16,7 @@ The data contains the information about various factors which can influence sala
     - Analyze the relationships between variables using statistical measures and visualizations.
     - Identify patterns, trends, and correlations in the data.
 
-4. Initial Analysis:
+<!-- 4. Initial Analysis:
     - Apply statistical techniques and machine learning algorithms to gain insights from the data.
     - Evaluate the performance of different models and select the most appropriate one.
 
@@ -33,4 +33,4 @@ List any references or sources used in the analysis, such as research papers, ar
 Specify the license under which the code and analysis are shared, if applicable.
 
 ## Contact Information
-Provide contact information for inquiries or collaborations related to the analysis.
+Provide contact information for inquiries or collaborations related to the analysis. -->
